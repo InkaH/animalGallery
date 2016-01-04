@@ -1,0 +1,32 @@
+.crop-img{
+  	height:150px;
+  	max-width:100%;
+  	margin-bottom: 10px;
+  	border: 2px solid #808080;
+}
+
+.large-img{
+	max-width:100%;
+	margin: 2px;
+	border: 2px solid #808080;
+}
+
+.carousel-img{
+    margin: auto;
+    padding: 10px;
+    max-height:350px;
+    max-width:100%;
+}
+
+.bc{
+	background-color: #fff;
+	font-size: 11px;
+}
+
+.myCarousel{
+	height: 360px;
+	background: #000000; /* Old browsers */
+	background: -moz-linear-gradient(left, #000000 16%, #4c4c4c 36%, #595959 45%, #666666 54%, #2c2c2c 71%, #1c1c1c 77%, #000000 92%, #000000 92%, #000000 95%, #000000 95%, #131313 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(left, #000000 16%,#4c4c4c 36%,#595959 45%,#666666 54%,#2c2c2c 71%,#1c1c1c 77%,#000000 92%,#000000 92%,#000000 95%,#000000 95%,#131313 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to right, #000000 16%,#4c4c4c 36%,#595959 45%,#666666 54%,#2c2c2c 71%,#1c1c1c 77%,#000000 92%,#000000 92%,#000000 95%,#000000 95%,#131313 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+}
